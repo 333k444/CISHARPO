@@ -1,0 +1,96 @@
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/bin/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 1/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/bin/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/bin/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/Entrega 3/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/bin/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-1/Proyecto/RawDeal-2023-1/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
+/home/rodrigo/Desktop/IIC2113/2023-2/Proyecto/E2/Enunciado/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/refint/RawDealView.dll
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/Users/Julian.Araya/Downloads/RawDeal/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.deps.json
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.dll
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/bin/Debug/net6.0/RawDealView.pdb
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.AssemblyReference.cache
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfoInputs.cache
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.AssemblyInfo.cs
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.csproj.CoreCompileInputs.cache
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.dll
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/refint/RawDealView.dll
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/RawDealView.pdb
+/Users/Julian.Araya/Desktop/final/E2E2/RawDeal/RawDealView/obj/Debug/net6.0/ref/RawDealView.dll
